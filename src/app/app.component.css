@@ -12,6 +12,10 @@ transition: 0.3s;
 width: 19.5%;
 height: 600px;
 }
+.p-line{
+    text-align: center; margin: 0; margin-top: 35px
+
+}
 
 .card:hover {
 box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);

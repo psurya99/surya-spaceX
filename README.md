@@ -2,28 +2,22 @@ SpaceX
 ------------------------------
 Responsive Angular application which shows all spacex launches. 
 
-
-
-
-
-Requirements
+Technologies
 ------------------------------
 
-* ``Angular8``
-* ``Es6``
-* ``NPM``
-* ``Node``
+* ``Angular9``
+*  ``Node``
 * ``CSS3``
 * ``Java Script``
+* ``Es6``
+* ``NPM``
 
 Run Project(CSR)
 ------------------------------
-
+* ``clone https://github.com/psurya99/surya-spaceX.git``
 * ``cd project folder``
 * ``run npm start``
 * ``open app in browser using url http://localhost:4200``
-
-
 
 Features
 ------------------------------
@@ -31,6 +25,3 @@ Features
 * User can filter launches by selecting custom filters `Launch Year`, `Successful Launch`, `Successful Landing`.
 * Fully responsive for `Mobile View`, `Tablet View:`, `Desktop View`
 * SEO friendly.
-* Server side rendering(SSR) implementation.
-* Updating view without refreshing browser.
-* Chaning url with refreshing browser
